@@ -1,3 +1,3 @@
-# I_m__working_on_this_projects
+# My Python Projects
 
-Kendimi denemek için yazdığım projeler.
+1) Small Projects
